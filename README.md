@@ -1,4 +1,11 @@
-### Hi there 👋
+Fernando Mastriani 👋
+
+Analise e Desenvolvimento de sistemas 📚
+
+Atualmente estudando Python🐍
+
+
+
 
 <!--
 **FernandoMastriani/FernandoMastriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
