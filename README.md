@@ -2,7 +2,7 @@ Fernando Mastriani 👋
 
 Analise e Desenvolvimento de sistemas 📚
 
-Atualmente estudando Python🐍
+
 
 
 
